@@ -1,5 +1,5 @@
 # CrystalBall
-Beginning Level Team Treehouse Android Course App.
+Beginning Level Team Treehouse's Android Course App.
 
 ## Features
 
